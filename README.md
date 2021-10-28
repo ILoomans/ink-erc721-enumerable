@@ -6,6 +6,11 @@ Because this contract is an extension of the ERC721 contract, documentation for 
 
 Approval & ApprovalForAll Events have been taken out and replaced with SwapProposal & SwapAccepted Events. This is because the only case in which an address is approved to transfer tokens is
 for the purpose of swapping tokens.
+## To do
+
+- [ ] Add Query Documentation
+- [ ] Add Event Documentation
+
 ## Transactions
 
 ### set_issuer
